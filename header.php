@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-	<title>Data Mahasiswa v1.0</title>
+	<title>Dicoba</title>
 	<link rel="shortcut icon" href="img/logo_ilmututorial_32x32.jpg" type="image/x-icon" />
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
