@@ -1,8 +1,8 @@
 <?php
-$host = "localhost"; // server
-$user = "root"; // username
-$pass = ""; // password
-$database = "datamahasiswa"; // nama database
+$host = "sql12.freesqldatabase.com"; // server
+$user = "sql12249928"; // username
+$pass = "7GkRVRzMxC"; // password
+$database = "sql12249928"; // nama database
  
 $koneksi = mysqli_connect($host, $user, $pass, $database); // menggunakan mysqli_connect
  
