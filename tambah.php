@@ -4,6 +4,7 @@ include("koneksi.php"); // memanggil file koneksi.php untuk koneksi ke database
 ?>
 	<div class="container">
 		<div class="content">
+			<hr />
 			<h2>Data mahasiswa &raquo; Tambah Data</h2>
 			<hr />
 			
